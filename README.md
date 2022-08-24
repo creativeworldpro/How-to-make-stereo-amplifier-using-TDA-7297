@@ -141,3 +141,83 @@ For power source, we are using DC-12v power source. We need to connect sound IC 
 
 Now just plug-in power source and connect audio input cable with mobile. Play music on mobile and enjoy the high quality sound.
 
+
+Steps to Order PCBs from JLCPCB - 
+
+If you complete design of your PCBs, then it is time to order PCBs. To order best quality PCBs, just visit JLCPCB and click on the “QUOTE NOW” button.
+Since 2006, JLCPCB continuously driven to become more efficient and to reduce costs. They promise to offer customers the most economic PCBs forever.
+
+JLCPCB makes cheapest but top quality PCBs possibly because of scale effect, extremely high production efficiency and less manpower cost.
+You can order minimum 5 pieces PCBs for only $2 costs.
+
+To order PCBs, make your Gerber file. Then drag and drop the Gerber file on the following box.
+
+Click on “Gerber Viewer” button you can check the PCBs design. Make sure everything is good, then choose color, quantity and order your PCBs at very reasonable prices.
+
+If you are a new user, then you can order 10 pieces PCBs, costing only $2. To place your order click on “Save to Cart” button. Confirm your shipping address and shipping method.
+
+
+Steps to Order SMT PCBs From JLCPCB - 
+
+To order your SMT PCBs, visit JLCPCB.
+
+1.	 Drag and drop SMT PCBs file on site.
+ 
+2.	 Choose your PCBs color and quantity.
+	 
+3.	 To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+	 
+4.	 Add your Bom file and CPL file.
+ 
+5.	 Place your order click on “Save to Cart” button.
+	 
+6.	 Confirm your shipping address and shipping method.
+
+7.	 Pay your payment
+ 
+8.	 Wait for confirmation mail.
+.	 
+9.	 For SMT Service, Click here.
+
+
+Shipping and Billing - 
+
+JLCPCB supported all shipping method can be seen below.
+
+Estimated Delivery Time
+
+DHL International Express 3-5 business days
+
+UPS Worldwide Saver 3-6 business days
+
+S.F Express(Standard) 5-8 business days
+
+S.F Express(Economy) 8-15 business days
+
+Singapore EMS 8-15 business days
+
+PostLink Registered Mail 15-20 business days
+
+ePacket 15-25 business days
+
+Registered Air Mail 15-20 business days
+
+
+JLCPCB supported Payment method -
+
+•	PayPal
+
+•	Credit/Debit Care
+
+•	Prepaid wire transfer
+
+
+Confirm PCBs Order - 
+
+To confirm your order, pay your payment. Then accept PayPal, Credit/Debit Card, Prepaid Wire Transfer. To manufactured your PCBs, it’ll takes about 2 days. DHL will be fastest shipping method to arrive your ordered PCBs at your location.
+
+All PCBs were well packed and quality was really good.
+
+Thanks to JLCPCB for best quality PCBs.
+
+
